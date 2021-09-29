@@ -24,9 +24,9 @@ Validator is easy for operation with no additional procedure required, offering 
 5.  Fill details and report fake prodcut
 
 ## Screenshots
-<img src="assests/images/1.png">
-<img src="assests/images/2.png">
-<img src="assests/images/3.png">
-<img src="assests/images/4.png">
-<img src="assests/images/5.png">
-<img src="assests/images/6.png">
+<img src="https://github.com/udaychugh/landing-page/blob/main/assets/images/1.png?raw=true">
+<img src="https://github.com/udaychugh/landing-page/blob/main/assets/images/2.png?raw=true">
+<img src="https://github.com/udaychugh/landing-page/blob/main/assets/images/3.png?raw=true">
+<img src="https://github.com/udaychugh/landing-page/blob/main/assets/images/4.png?raw=true">
+<img src="https://github.com/udaychugh/landing-page/blob/main/assets/images/5.png?raw=true">
+<img src="https://github.com/udaychugh/landing-page/blob/main/assets/images/6.png?raw=true">
