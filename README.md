@@ -24,9 +24,11 @@ Validator is easy for operation with no additional procedure required, offering 
 5.  Fill details and report fake prodcut
 
 ## Screenshots
-<img src="https://github.com/udaychugh/landing-page/blob/main/assets/images/1.png?raw=true">
-<img src="https://github.com/udaychugh/landing-page/blob/main/assets/images/2.png?raw=true">
-<img src="https://github.com/udaychugh/landing-page/blob/main/assets/images/3.png?raw=true">
-<img src="https://github.com/udaychugh/landing-page/blob/main/assets/images/4.png?raw=true">
-<img src="https://github.com/udaychugh/landing-page/blob/main/assets/images/5.png?raw=true">
-<img src="https://github.com/udaychugh/landing-page/blob/main/assets/images/6.png?raw=true">
+<div style="display:flex;flex-wrap:wrap;">
+  <img src="https://github.com/udaychugh/landing-page/blob/main/assets/images/1.png?raw=true" height="500px">
+<img src="https://github.com/udaychugh/landing-page/blob/main/assets/images/2.png?raw=true" height="500px">
+<img src="https://github.com/udaychugh/landing-page/blob/main/assets/images/3.png?raw=true" height="500px">
+<img src="https://github.com/udaychugh/landing-page/blob/main/assets/images/4.png?raw=true" height="500px">
+<img src="https://github.com/udaychugh/landing-page/blob/main/assets/images/5.png?raw=true" height="500px">
+<img src="https://github.com/udaychugh/landing-page/blob/main/assets/images/6.png?raw=true" height="500px">
+  </div>
