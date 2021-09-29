@@ -16,15 +16,18 @@ Runtime Terror’s Validator solution can help brand owners to protect theirbusi
 
 Validator is easy for operation with no additional procedure required, offering numerous values to your business in brand protection, consumer engagement and channel management. The solution also helps anti-phishing, spotting fake websites that sell the counterfeit goodswithdatacollectedfromconsumer’sreal-timescanactivities.
 
-## How to use
-1.  Click Button to start scanning
-2.  Scan the QR code available on package printing by Validator app
-3.  Product will successfully be authenticated after scan
-4.  If Authentication Failed will be shown for good then immediately report it by clicking on report button
-5.  Fill details and report fake product
-
 ## Instruction to try this app
-7770001, 7770002, 7770003, 7770004, 7770005, 7770006, 7770007, 7770008, 7770009, 7770010, 7770011, 7770012, 7770013, 7770014, 7770015, 7770016, 7770017, 7770018, 7770019, 7770020, 7770021, 7770022, 7770023, 7770024, 7770025, 7770026, 7770027, 7770028, 7770029, 7770030
+
+1. Open the app you will see a splash screen pops up
+2. After the splash screen, you will get authenticate your product and you will get one button also for starting the scanning process 
+3. After clicking on the scan QR code button the first time it will ask for camera permission to scan the code to allow it.
+4. Then you can scan the QR code by aligning it inside the scanner box
+5. If you scanned a valid product(QR code) it will take you to the real product screen. (Note: You can find the valid codes and QR images in the readme file itself.)
+6. Now if you scan the same code again it will take you to the fake product screen because if the code is once scanned it becomes invalid and no one will use the same code to make the fake product.
+7. You can also report the fake product by clicking on report product button.
+
+
+Qr Code = 7770001, 7770002, 7770003, 7770004, 7770005, 7770006, 7770007, 7770008, 7770009, 7770010, 7770011, 7770012, 7770013, 7770014, 7770015, 7770016, 7770017, 7770018, 7770019, 7770020, 7770021, 7770022, 7770023, 7770024, 7770025, 7770026, 7770027, 7770028, 7770029, 7770030
 
 
 ## Screenshots
