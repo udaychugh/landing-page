@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Validator Register Complaint</title>
+
+
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon.png">
+    <link rel="manifest" href="assets/favicon/site.webmanifest">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" />
+
+    <!--stylesheet-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/all.min.css">
+    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        .myformsection {
+            margin: 100px;
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .imagesection {
+            margin-right: 40px;
+            margin-bottom: 40px;
+        }
+
+        .inputsection input {
+            font-size: 20px;
+            width: 100%;
+            padding: 10px;
+            border-radius: 20px;
+            outline: none;
+        }
+
+        .inputsection input::placeholder {
+            text-transform: capitalize;
+
+        }
+
+        p {
+            font-size: 20px;
+            margin-top: 20px;
+            text-transform: uppercase;
+        }
+    </style>
+</head>
+
+<body>
+
+    <section class="myformsection">
+        <div class="imagesection">
+            <img src="assets/images/mobile.png" width="100%" alt="">
+        </div>
+        <div class="inputsection">
+            <h2>Register Complaint</h2>
+            <div class="inputvalues">
+                <p>Full Name</p>
+                <input type="text" placeholder="Enter your full name">
+            </div>
+            <div class="inputvalues">
+                <p>Email</p>
+                <input type="email" placeholder="Enter your email address">
+            </div>
+            <div class="inputvalues">
+                <p>mobile</p>
+                <input type="number" placeholder="Enter your mobile number">
+            </div>
+            <div class="inputvalues">
+                <p>QR Image</p>
+                <input type="file" placeholder="Enter your full name">
+            </div>
+            <div class="inputvalues">
+                <p>Store Name</p>
+                <input type="text" placeholder="Enter Store Name where you buy the product">
+            </div>
+            <div class="inputvalues" style="margin-top: 20px;">
+                <div class="download-buttons">
+                    <a href="#" class="google-play" id="submitbutton">
+                        <div class="button-content">
+                            <h6 style="font-size: 22px;"><span>Submit</span></h6>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+    <script>
+        $(window).on('load', function() {
+            $("body").addClass("loaded");
+        });
+
+        document.getElementById("submitbutton").addEventListener("click", function() {
+            swal("Done", "We register your complaint", "success");
+        });
+    </script>
+    <script src="assets/js/swiper-bundle.min.js"></script>
+    <script src="assets/js/ytdefer.min.js"></script>
+    <script src="assets/js/script.js"></script>
+</body></html>
