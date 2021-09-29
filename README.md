@@ -23,6 +23,10 @@ Validator is easy for operation with no additional procedure required, offering 
 4.  If Authentication Failed will be shown for good then immediately report it by clicking on report button
 5.  Fill details and report fake prodcut
 
+## Instruction to try this app
+7770001, 7770002, 7770003, 7770004, 7770005, 7770006, 7770007, 7770008, 7770009, 7770010, 7770011, 7770012, 7770013, 7770014, 7770015, 7770016, 7770017, 7770018, 7770019, 7770020, 7770021, 7770022, 7770023, 7770024, 7770025, 7770026, 7770027, 7770028, 7770029, 7770030
+
+
 ## Screenshots
 <div style="display:flex;flex-wrap:wrap;">
   <img src="https://github.com/udaychugh/landing-page/blob/main/assets/images/1.png?raw=true" height="500px">
